@@ -1,0 +1,7 @@
+﻿TechDesignTestProject_Irina/UserSettings
+*.vsconfig
+*.csproj
+*.sln
+TechDesignTestProject_Irina/Logs
+TechDesignTestProject_Irina/Library
+TechDesignTestProject_Irina/Temp
